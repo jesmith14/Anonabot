@@ -1,0 +1,127 @@
+
+#indexPopupTitleWrap {
+  padding-top: 0;
+}
+
+#tagline {
+  padding-bottom: 20px;
+}
+
+#contactMessageStatus {
+  padding-bottom: 10px;
+}
+
+#botiframe {
+  width: 85vw;
+  height: 50vh;
+  overflow-y: none;
+}
+
+#heart {
+  background-image: 'images/resources.png';
+  margin-left: 0;
+  padding-right: 30px;
+}
+
+#resourceimg {
+  width: 50px;
+  height: 50px;
+}
+
+#chatbotimg {
+  width: 90px;
+  height: 90px;
+}
+
+#profile {
+  width: 50px;
+  height: 50px;
+}
+
+.navbar-default {
+  margin: 0;
+}
+
+.admin-help-popup {
+  border: 10px;
+  border-style: solid;
+  background-color: #000; !important
+}
+
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
+
+body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 { 
+      /*background-color: #1abc9c; */
+      /*background-color: #157cfa;*/
+      background-color: #23507e;
+      /*color: #ffffff;*/
+  }
+  .bg-2 { 
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+  }
+  .bg-3 { 
+    background-color: #23507e;
+      /*background-color: #ffffff;*/ /* White */
+      color: #555555;
+  }
+  .bg-4 { 
+      background-color: #2f2f2f; /* Black Gray */
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top: 10px;
+      padding-bottom: 0px;
+  }
+
+.navbar .navbar-inner {
+    padding: 0;
+}
+
+.navbar .nav {
+    margin: 0;
+    display: table;
+    width: 100%;
+    padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+}
+
+.navbar .nav li {
+    display: table-cell;
+    width: 1%;
+    float: none;
+}
+
+.navbar .nav li a {
+    font-weight: bold;
+    text-align: center;
+    border-left: 1px solid rgba(255, 255, 255, .75);
+    border-right: 1px solid rgba(0, 0, 0, .1);
+}
+
+.navbar .nav li:first-child a {
+    border-left: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.navbar .nav li:last-child a {
+    border-right: 0;
+    border-radius: 0 3px 3px 0;
+}
+
+.navbar .nav .navbar-default {
+  padding-bottom: 0;
+}
