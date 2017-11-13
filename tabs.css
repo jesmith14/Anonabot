@@ -1,9 +1,34 @@
-#tabcenter {
+/*#tabs-container {
+   background-color: #efefef;
+   height: 75vh;
+   text-align:left;
+
+}*/
+
+/*#tabcenter {
     float:none;
     display:inline-block;
     zoom:1;
+}*/
+/*
+.nav-tabs {
+    text-align:left;
 }
 
-.nav-tabs {
-    text-align:center;
+#tab-content {
+   text-align:left;
+}
+
+.tab-pane {
+   text-align:left;
+}
+
+#tab-content #home {
+   text-align:left; !important
+}*/
+
+
+#tabs-container {
+   text-align:left;
+   height:65vh;
 }
