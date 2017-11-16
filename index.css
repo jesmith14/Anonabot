@@ -6,6 +6,11 @@
   position: absolute;
   /*margin: auto;*/
   display: block;
+  overflow-y: scroll;
+}
+
+#profile_text {
+
 }
 
 #indexPopupTitleWrap {
@@ -21,7 +26,7 @@
 }
 
 #botiframe {
-  width: 85vw;
+  width: 100vw;
   height: 50vh;
   overflow-y: none;
 }
@@ -151,4 +156,11 @@ a {
 
 #profileContainer {
   padding-left: 0px;
+}
+
+#index-container {
+   /*text-align:center;*/
+   height:55vh;
+   /*padding-left: 15px;*/
+
 }
