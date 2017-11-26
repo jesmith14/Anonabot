@@ -31,6 +31,8 @@
 #tabs-container {
    text-align:center;
    height:60vh;
+   padding-left:100px;
+   padding-right:100px;
    /*padding-left: 15px;*/
 
 }
@@ -45,3 +47,9 @@
 .nav-tabs, .nav-pills {
     text-align:center;
 }
+
+#profile-container {
+    text-align:center;
+    height:60vh;
+}
+

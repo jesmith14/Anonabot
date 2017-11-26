@@ -1,27 +1,32 @@
 #link {
   color: #000;
+  margin-top:10px;
+  padding-top:-10px;
 }
 
 #rcorners1 {
-  border-radius: 25px;
+  position: absolute;
   background: #f3fafd;
+  height:auto;
+}
+
+#rcorners2 {
+    right: 0;
+    position:absolute;
+    background: #f3fafd;
+    height:50vh;
 }
 
 #link:hover { COLOR: blue; }
 
 #profilePage {
-  background-color: #fff;
-  width: 100vw;
+  width: 75vw;
   height: 50vh;
   position: absolute;
-  /*margin: auto;*/
   display: block;
   overflow-y: scroll;
 }
 
-#profile_text {
-
-}
 
 #indexPopupTitleWrap {
   padding-top: 0;
@@ -37,8 +42,12 @@
 
 #botiframe {
   width: 100vw;
+  /*margin-right: 100px;*/
+  padding-left:100px;
+  padding-right:100px;
   height: 50vh;
-  overflow-y: none;
+  margin-top:15px;
+  /*overflow-y: scroll;*/
 }
 
 #heart {
@@ -170,7 +179,7 @@ a {
 
 #index-container {
    /*text-align:center;*/
-   height:55vh;
+   height:60vh;
    /*padding-left: 15px;*/
 
 }
