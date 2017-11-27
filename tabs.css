@@ -54,13 +54,18 @@
 }
 
 .resource-link {
+  margin-left:30%;
+  margin-right: 30%;
 }
 
 .resource-headline {
   padding-top: 10px;
-  font-size:1.25em;
+  font-size:1.0em;
 }
 
 #resource-item: {
   text-align: left;
+}
+
+.tab-pane {
 }
