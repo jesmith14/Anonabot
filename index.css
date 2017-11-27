@@ -74,6 +74,21 @@
   color:#e5e5e5;
 }
 
+.resource-link {
+    text-align: left;
+    margin-left: 25vw;
+}
+
+#resource-item: {
+  text-align: left;
+}
+
+.resource-headline {
+    font-size: 20px;
+    padding-top: 0px;
+    margin-bottom: 20px;
+}
+
 #profile {
   width: 50px;
   height: 50px;
