@@ -73,10 +73,12 @@
 .resource-link:hover {
   color:#e5e5e5;
 }
-
+.resource-link:visited {
+  color:#e5e5e5;
+}
 .resource-link {
     text-align: left;
-    margin-left: 25vw;
+    margin-left: 40%;
 }
 
 
