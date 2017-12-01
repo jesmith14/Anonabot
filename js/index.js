@@ -17,7 +17,7 @@
 // }, 10000);
 
 // setTimeout(function(){
-//    $('.anonabot_title').show();// or fade, css display however you'd like.
+//    $('.anonobot_title').show();// or fade, css display however you'd like.
 // }, 500);
 
 
